@@ -1,0 +1,16 @@
+C:\Users\001187879\OneDrive - TAFE SA\Documents\Diploma\Semester1\Term1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.AssemblyReference.cache
+C:\Users\001187879\OneDrive - TAFE SA\Documents\Diploma\Semester1\Term1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.dll.config
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.dll
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.pdb
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.AssemblyReference.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.dll
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.pdb
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.dll.config
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.dll
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\bin\EnrolmentSystem.pdb
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.AssemblyReference.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.dll
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\FinalPart\EnrolmentSystem\EnrolmentSystem\obj\Release\EnrolmentSystem.pdb

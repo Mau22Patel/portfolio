@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\enrolmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\enrolmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\enrolmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\enrolmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|c:\\users\\mauli\\onedrive - tafe sa\\documents\\diploma\\semester1\\ict614-create cloud services\\assessments\\part2\\enrolmentsystemclient\\enrolmentsystemclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2215FD86-8B80-4B32-AFDD-9CA720A51718}|EnrolmentSystemClient\\EnrolmentSystemClient.csproj|solutionrelative:enrolmentsystemclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "EnrolmentSystemClient\\StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:47:20.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\MainForm.cs",
+              "RelativeToolTip": "EnrolmentSystemClient\\MainForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:44:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\MainForm.cs [Design]",
+              "RelativeToolTip": "EnrolmentSystemClient\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:38:35.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\App.config",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\App.config",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\App.config",
+              "RelativeToolTip": "EnrolmentSystemClient\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-02T08:15:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrolmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\EnrolmentForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\EnrolmentForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\EnrolmentForm.cs [Design]",
+              "RelativeToolTip": "EnrolmentSystemClient\\EnrolmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:24:58.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesForm.cs",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\CoursesForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\CoursesForm.cs",
+              "RelativeToolTip": "EnrolmentSystemClient\\CoursesForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:29:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\CoursesForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\CoursesForm.cs [Design]",
+              "RelativeToolTip": "EnrolmentSystemClient\\CoursesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:21:25.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrolmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\EnrolmentForm.cs",
+              "RelativeDocumentMoniker": "EnrolmentSystemClient\\EnrolmentForm.cs",
+              "ToolTip": "C:\\Users\\mauli\\OneDrive - TAFE SA\\Documents\\Diploma\\Semester1\\ICT614-Create Cloud Services\\Assessments\\Part2\\EnrolmentSystemClient\\EnrolmentSystemClient\\EnrolmentForm.cs",
+              "RelativeToolTip": "EnrolmentSystemClient\\EnrolmentForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:47:55.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

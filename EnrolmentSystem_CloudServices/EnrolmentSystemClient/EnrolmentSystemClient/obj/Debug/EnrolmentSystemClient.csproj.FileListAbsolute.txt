@@ -1,0 +1,16 @@
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\bin\Debug\EnrolmentSystemClient.exe.config
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\bin\Debug\EnrolmentSystemClient.exe
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\bin\Debug\EnrolmentSystemClient.pdb
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.csproj.AssemblyReference.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.CoursesForm.resources
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.EnrolmentForm.resources
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.Properties.Resources.resources
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.StudentsForm.resources
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.csproj.GenerateResource.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.csproj.CoreCompileInputs.cache
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\Enrolmen.E42AF62B.Up2Date
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.exe
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.pdb
+C:\Users\mauli\OneDrive - TAFE SA\Documents\Diploma\Semester1\ICT614-Create Cloud Services\Assessments\Part2\EnrolmentSystemClient\EnrolmentSystemClient\obj\Debug\EnrolmentSystemClient.MainForm.resources
