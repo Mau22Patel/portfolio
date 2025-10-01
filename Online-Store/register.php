@@ -2,56 +2,67 @@
 // Include database connection
 require_once('conn_db.php');
 
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+// Make mysqli throw exceptions so try/catch works
+mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
+$mysqli->set_charset('utf8mb4');
+
 // Initialize variables
 $email = $firstName = $lastName = $telephone = $password = $repassword = "";
 $error_message = "";
+$success_message = "";
 
 // Process form submission
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Capture and sanitize inputs
-    $email = trim($_POST['email']);
-    $firstName = trim($_POST['firstName']);
-    $lastName = trim($_POST['lastName']);
-    $telephone = trim($_POST['telephone']);
-    $password = trim($_POST['password']);
-    $repassword = trim($_POST['repassword']);
+    $email     = trim($_POST['email'] ?? '');
+    $firstName = trim($_POST['firstName'] ?? '');
+    $lastName  = trim($_POST['lastName'] ?? '');
+    $telephone = trim($_POST['telephone'] ?? '');
+    $password  = $_POST['password'] ?? '';
+    $repassword= $_POST['repassword'] ?? '';
 
     // Validate inputs
-    if (empty($firstName) || empty($lastName) || empty($email) || empty($password) || empty($repassword) || empty($telephone)) {
+    if ($firstName === '' || $lastName === '' || $email === '' || $password === '' || $repassword === '' || $telephone === '') {
         $error_message = "Please fill all the required fields.";
     } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $error_message = "Please enter a valid email.";
     } elseif ($password !== $repassword) {
         $error_message = "Passwords do not match, please try again.";
-    } elseif (!is_numeric($telephone)) {
+    } elseif (!preg_match('/^\d{4,}$/', $telephone)) { // at least 4 digits
         $error_message = "Phone number must be numeric.";
     } else {
-        // Encrypt the password
-        $key = "abcdefgh123456";
-        $encrypted_password = crypt($password, $key);
-
-        // Define the insert query
-        $query = "INSERT INTO user (password, email, firstName, lastName, telephone) VALUES (?, ?, ?, ?, ?)";
-        
-        // Execute query
         try {
-            $stmt = $mysqli->prepare($query);
-            $stmt->bind_param("sssss", $encrypted_password, $email, $firstName, $lastName, $telephone);
+            // Hash the password (works with password_verify() in login)
+            $hash = password_hash($password, PASSWORD_DEFAULT);
+
+            // Prepare insert (note backticks around `user` and `password`)
+            $sql = "INSERT INTO `user` (`email`, `password`, `firstName`, `lastName`, `telephone`)
+                    VALUES (?, ?, ?, ?, ?)";
+            $stmt = $mysqli->prepare($sql);
+            $stmt->bind_param('sssss', $email, $hash, $firstName, $lastName, $telephone);
             $stmt->execute();
             $stmt->close();
 
-            // Success message and email confirmation
             $success_message = "Thank you for registering. <a href='login.php'>Click here to login</a>";
-            $email_message = "Thank you for registering with us. Your details are: <br>Name: $firstName $lastName<br>Email: $email<br>Phone Number: $telephone";
-            @mail($email, "Website Registration", $email_message);
 
-        } catch (Exception $e) {
-            error_log($e->getMessage());
-            $error_message = "Error inserting data into the table.";
+            // (Optional) Send email
+            @mail($email, "Website Registration",
+                "Thank you for registering with us.\n\nName: $firstName $lastName\nEmail: $email\nPhone Number: $telephone");
+
+        } catch (mysqli_sql_exception $e) {
+            // Handle duplicate email nicely; otherwise show the actual error during dev
+            if ($e->getCode() === 1062) {
+                $error_message = "That email is already registered.";
+            } else {
+                $error_message = "Database error: " . $e->getMessage();
+            }
         }
     }
 }
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
