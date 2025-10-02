@@ -1,0 +1,13 @@
+C:\C#Projects\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\C#Projects\WeatherApp\bin\Debug\WeatherApp.exe
+C:\C#Projects\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\C#Projects\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\C#Projects\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.csproj.Up2Date
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.exe
+C:\C#Projects\WeatherApp\obj\Debug\WeatherApp.pdb
